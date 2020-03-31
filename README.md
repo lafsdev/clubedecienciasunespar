@@ -1,5 +1,3 @@
-# clubedecienciasunespar
+## Clube de Ciências Unespar
 
-Site desenvolvido para o clube de ciências da Unespar — Universidade Estadual do Paraná UNESPAR.
-
-Acesso disponível em: https://clubedeciencias.netlify.com/
+Site desenvolvido para o [clube de ciências da Unespar](https://clubedeciencias.netlify.com/) — Universidade Estadual do Paraná UNESPAR.
